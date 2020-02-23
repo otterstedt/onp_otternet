@@ -1,2 +1,3 @@
 - name: onr_homeassistant_docker
-  src: git@github.com/otterstedt/onr_homeassistant_docker.git
+  scm: git
+  src: git@github.com:otterstedt/onr_homeassistant_docker.git
