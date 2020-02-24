@@ -1,3 +1,7 @@
 - name: onr_homeassistant_docker
   scm: git
   src: git@github.com:otterstedt/onr_homeassistant_docker.git
+
+- name: onr_prometheus_nodexp
+  scm: git
+  src: git@github.com:otterstedt/onr_prometheus_nodexp.git

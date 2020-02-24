@@ -1,0 +1,6 @@
+system_capability_systemd: False
+
+onr_prometheus_nodexp_binary_url: "{{ prometheus.agent.node_exporter.v0_18_1.darwin.url }}"
+onr_prometheus_nodexp_binary_name: "{{ prometheus.agent.node_exporter.v0_18_1.darwin.name }}"
+
+onr_prometheus_nodexp_install_folder: /Users/{{ onr_prometheus_nodexp_user }}/opt/node_exporter
