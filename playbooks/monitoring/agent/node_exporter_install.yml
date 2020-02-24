@@ -1,0 +1,3 @@
+- hosts: nodexp
+  roles:
+    - onr_prometheus_nodexp
