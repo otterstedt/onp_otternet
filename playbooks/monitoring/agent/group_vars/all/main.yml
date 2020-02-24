@@ -4,10 +4,10 @@ prometheus:
       v0_18_1:
         amd64:
           url: https://github.com/prometheus/node_exporter/releases/download/v0.18.1/node_exporter-0.18.1.linux-amd64.tar.gz
-          name: node_exporter-0.18.1.linux-amd64.tar.gz
+          name: node_exporter-0.18.1.linux-amd64
         darwin:
           url: https://github.com/prometheus/node_exporter/releases/download/v0.18.1/node_exporter-0.18.1.darwin-amd64.tar.gz
-          name: node_exporter-0.18.1.darwin-amd64.tar.gz
+          name: node_exporter-0.18.1.darwin-amd64
         arm64:
           url: https://github.com/prometheus/node_exporter/releases/download/v0.18.1/node_exporter-0.18.1.linux-arm64.tar.gz
-          name: node_exporter-0.18.1.linux-arm64.tar.gz
+          name: node_exporter-0.18.1.linux-arm64
