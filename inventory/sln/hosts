@@ -1,6 +1,10 @@
-brage
-elite
+brage.sln
+hass.sln
 
 [hass]
 hass.sln
+
+[nodexp]
+hass.sln
+brage.sln
 

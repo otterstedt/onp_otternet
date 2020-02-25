@@ -1,0 +1,2 @@
+onr_prometheus_nodexp_binary_url: "{{ prometheus.agent.node_exporter.v0_18_1.arm64.url }}"
+onr_prometheus_nodexp_binary_name: "{{ prometheus.agent.node_exporter.v0_18_1.arm64.name }}"
