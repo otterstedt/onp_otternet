@@ -1,0 +1,10 @@
+#onr_diskconfig
+diskconfig_lvm_lvs:
+  - vg: tools_vgroup
+    lv: tools_magnetic_lv_a
+    size: 100%VG
+    pvs: /dev/nvme1n1p1
+    path: /mnt/tools-magnetic
+    fstype: xfs
+
+docker_bind_ip: 127.0.3.10

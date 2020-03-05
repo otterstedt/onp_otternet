@@ -1,0 +1,14 @@
+ict-amazon
+web-amazon
+tools-amazon
+
+[hass]
+web-amazon
+
+[prometheus]
+tools-amazon
+
+[nodexp]
+ict-amazon
+web-amazon
+tools-amazon

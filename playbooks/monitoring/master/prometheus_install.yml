@@ -1,0 +1,3 @@
+- hosts: prometheus
+  roles:
+    - onr_prometheus_docker
