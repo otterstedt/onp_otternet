@@ -1,0 +1,3 @@
+- hosts: minecraft
+  roles:
+    - onr_minecraft_docker
